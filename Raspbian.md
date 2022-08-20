@@ -35,7 +35,7 @@ Just download an image and follow the instructions below!
 
 ## Prerequisites:
 
--   [A Surface RT with secure boot disabled.](https://jwa4.gitbook.io/windows/tools/surface-rt-and-surface-2-jailbreak-usb)
+-   [A Surface RT with secure boot disabled.](https://jwa4.gitbook.io/windows/jailbreaks/golden-keys-longhorn)
 -   Make sure your Surface is somewhat charged, it's recommended you keep it plugged in during the install process.
 -   A USB drive around 8-16GB.
 
