@@ -1,2 +1,17 @@
 [
+	{
+		"flavor": "Raspbian",
+		"images": [
+			{
+				"name": "Raspberry Pi OS with desktop",
+				"version": "Debian 11, Bullseye",
+				"release_date": "April 4th, 2022",
+				"size": 1338838753,
+				"size_str": "1.25GB",
+				"mirrors": {
+					"Mega": "https://mega.nz/file/kg5H3D4b#z_-Y6g3UqYXSF-bZxHqZf9v20AjF3DDtplaJJDquG7c"
+				}
+			}
+		]
+	}
 ]

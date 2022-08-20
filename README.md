@@ -4,6 +4,7 @@ In this repo are the instructions for installing different OSes on the Surface R
 A full list of images can be found [here](https://mega.nz/folder/ZwQjmKRJ#J9f1HmTE1T52kRSq4jabLA).
 
 Select an OS get started:
+ - [Raspbian](/Raspbian.md)
 
 ## Note
 The SurfaceRT is an old device, and work is still being done to fully support the Tegra3 SOC. 
