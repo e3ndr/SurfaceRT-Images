@@ -13,3 +13,7 @@ Running Linux will not make this device any faster, and will probably only serve
 If you or a friend are very knowledgeble with Linux and want to help contribute to writing drivers 
 for the Tegra3 SOC and the SurfaceRT, get in kahoots with the [grate-driver](https://github.com/grate-driver)
 and the [OpenRT](https://discord.gg/tAxvvVC) teams.
+
+
+
+Made with ❤ by e3ndr :^)

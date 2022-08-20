@@ -67,5 +67,3 @@ Just download an image and follow the instructions below!
  - @never_released and @TheWack0lian for their discovery of the Golden Keys exploit.
  - Both the GrateLinux and OpenRT teams for their [Linux kernel](https://github.com/Open-Surface-RT/grate-linux) for the Tegra3 SOC.
  - Everyone behind Raspbian and the RaspberryPI, software support for armhf is great because of them.
-
-Made with ❤ by e3ndr :^)
