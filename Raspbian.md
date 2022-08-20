@@ -41,7 +41,7 @@ Just download an image and follow the instructions below!
 
 ## How to use:
 
-1. Burn any of the [images](https://mega.nz/folder/ohZzDBJY#W2iOMkD2W_QcMloeyBYnTA) to a USB drive using your favorite imager (Rufus, Balena, etc).
+1. Pick an image from [here](https://mega.nz/folder/ohZzDBJY#W2iOMkD2W_QcMloeyBYnTA) and burn it to a USB drive using your favorite imager (Rufus, Balena, etc).
 2. Boot the USB drive by holding VOL DOWN and pressing power, release after you see the Surface logo.
 3. Be patient! First time setup takes long enough, and the Surface makes this process even slower due to a lack of CPU features.
 4.  - If you selected a Desktop image: Go through the first time setup. **Note**: Clicking reboot will NOT reboot you back to the USB drive, you will have to shutdown and start your Surface using the volume key method instead.
