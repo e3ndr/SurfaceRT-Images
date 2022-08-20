@@ -54,7 +54,7 @@ Just download an image and follow the instructions below!
    - Advanced users can manually adjust the dd command to move the rootfs to an SD card (for more storage); refer to [this entry](https://openrt.gitbook.io/open-surfacert/surface-rt/linux/booting/kernel-parameters#root) in the OpenRT wiki for device ids.
 2) Mount the eMMC (`sudo mkdir /tmp/emmc && sudo mount -o rw /dev/mmcblk0p1 /tmp/emmc`).
 3) `cd` to the newly mounted directory (`cd /tmp/emmc`).
-3) Edit `start.nsh` (`sudo nano start.nsh`), change the `root=` parameter to be `root=/dev/mmcblk0p2`, you can also remove `rootwait`.
+3) Edit `startup.nsh` (`sudo nano startup.nsh`), change the `root=` parameter to be `root=/dev/mmcblk0p2`, you can also remove `rootwait`.
 2) Reboot (`sudo reboot now`) and unplug your USB drive.
 4) Profit!
 
