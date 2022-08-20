@@ -1,6 +1,7 @@
 # RT-Images
 
-Here you fill find images for the SurfaceRT.
+In this repo are the instructions for installing different OSes on the Surface RT.
+A full list of images can be found [here](https://mega.nz/folder/ZwQjmKRJ#J9f1HmTE1T52kRSq4jabLA).
 
 Select an OS get started:
 
