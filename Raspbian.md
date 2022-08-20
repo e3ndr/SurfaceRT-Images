@@ -1,4 +1,4 @@
-# RT-Images / Raspbian
+# SurfaceRT-Images / Raspbian
 
 Here you fill find RaspberryPI images, pre-modified with the grate-driver kernel and all the necessary modules for booting Linux on the SurfaceRT. 
 Just download an image and follow the instructions below!  
