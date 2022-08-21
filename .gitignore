@@ -1,1 +1,7 @@
 __Images/
+
+# Eclipse
+.settings/
+.metadata/
+.project
+.classpath
