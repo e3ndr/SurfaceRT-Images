@@ -1,13 +1,31 @@
 package xyz.e3ndr.imageos.ui;
 
-import lombok.AllArgsConstructor;
+import java.awt.Dimension;
+import java.awt.Point;
 
-@AllArgsConstructor
-public enum UIPage {
-    CHECKING_FOR_INTERNET(UI::page_checkingForInternet),
+import org.jetbrains.annotations.Nullable;
 
-    ;
+import xyz.e3ndr.consoleutil.input.InputKey;
+import xyz.e3ndr.consoleutil.input.KeyListener;
 
-    Runnable renderHandler;
+interface UIPage extends KeyListener {
+
+    /**
+     * @implNote If your modal dimension is null then your paint origin will also be
+     *           null. The \@Nullable annotation was omitted to help calm IDEs.
+     */
+    public @Nullable Dimension getModalSize();
+
+    /**
+     * @implNote If your modal dimension is null then your paint origin will also be
+     *           null. The \@Nullable annotation was omitted to help calm IDEs.
+     */
+    public void paint(Point origin);
+
+    @Override
+    default void onKey(char key, boolean alt, boolean control) {}
+
+    @Override
+    default void onKey(InputKey key) {}
 
 }
